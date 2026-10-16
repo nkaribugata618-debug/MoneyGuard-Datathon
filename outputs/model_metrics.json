@@ -1,0 +1,13 @@
+{
+  "model": "Isolation Forest",
+  "rows_scored": 18000,
+  "features_used": [
+    "gross_value",
+    "discount_pct",
+    "quantity",
+    "unit_price"
+  ],
+  "anomaly_count": 897,
+  "anomaly_rate_percent": 4.98,
+  "note": "Anomalies require business validation; they are not confirmed losses."
+}
